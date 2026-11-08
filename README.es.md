@@ -117,7 +117,7 @@ La lista de quienes aportaron código, informes o archivos, junto con los cambio
 
 ## ⬇️ Descargar
 
-Consulta el [historial de versiones en español](VERSIONES.es.md) para entender qué cambia en cada actualización. Los instaladores se descargan desde las páginas oficiales del proyecto original: [última versión](https://github.com/LeZed97/ZedSuite/releases/latest) · [todas las versiones](https://github.com/LeZed97/ZedSuite/releases). Una vez instalada, la aplicación se actualiza automáticamente en los tres sistemas.
+Consulta la [página de versiones y descargas en español de este fork](https://dewasha40.github.io/ZedSuite-spanish/) para leer las notas traducidas y comparar las versiones. La página enlaza directamente a los archivos de descarga originales, sin alojar copias en este fork. También puedes abrir la [última versión oficial](https://github.com/LeZed97/ZedSuite/releases/latest) o [todas las publicaciones originales](https://github.com/LeZed97/ZedSuite/releases). Una vez instalada, la aplicación se actualiza automáticamente en los tres sistemas.
 
 **Windows** — descarga `ZedSuite_x.y.z_x64-setup.exe` y ejecútalo (en Windows de 32 bits, usa `ZedSuite_x.y.z_x86-setup.exe`). ZedSuite requiere **Windows 10 u 11**; adaptarlo a Windows 7 habría requerido mucho más trabajo.
 
