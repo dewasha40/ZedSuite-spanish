@@ -117,7 +117,7 @@ La lista de quienes aportaron código, informes o archivos, junto con los cambio
 
 ## ⬇️ Descargar
 
-Todo está en la sección **Assets** de la [última versión](https://github.com/LeZed97/ZedSuite/releases/latest). Una vez instalada, la aplicación se actualiza automáticamente en los tres sistemas.
+Consulta el [historial de versiones en español](VERSIONES.es.md) para entender qué cambia en cada actualización. Los instaladores se descargan desde las páginas oficiales del proyecto original: [última versión](https://github.com/LeZed97/ZedSuite/releases/latest) · [todas las versiones](https://github.com/LeZed97/ZedSuite/releases). Una vez instalada, la aplicación se actualiza automáticamente en los tres sistemas.
 
 **Windows** — descarga `ZedSuite_x.y.z_x64-setup.exe` y ejecútalo (en Windows de 32 bits, usa `ZedSuite_x.y.z_x86-setup.exe`). ZedSuite requiere **Windows 10 u 11**; adaptarlo a Windows 7 habría requerido mucho más trabajo.
 
